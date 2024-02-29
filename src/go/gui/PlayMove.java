@@ -3,7 +3,7 @@ package go.gui;
 import go.core.Goban; //unnötig
 import go.core.Player;
 import go.core.StoneChain;
-import go.score.Island;
+import go.score.Island; //unnötig
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
