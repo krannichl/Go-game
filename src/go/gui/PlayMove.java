@@ -1,6 +1,6 @@
 package go.gui;
 
-import go.core.Goban;
+import go.core.Goban; //unnötig
 import go.core.Player;
 import go.core.StoneChain;
 import go.score.Island;
